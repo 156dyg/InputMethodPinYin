@@ -1,0 +1,2 @@
+# InputMethodPinYin
+Unity自定义输入法，解决在Linux系统中无法输入中文问题
